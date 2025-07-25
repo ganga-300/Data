@@ -10,7 +10,7 @@
     "id": "top-10-cafes",
     "title": "Top 10 Cafes in Your City",
     "description": "Explore our curated list of the must-visit cafes near you for the best coffee experience.",
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3D8bjkRbF8jQM%26pp%3DygUOI2Nvc3RsaWVzdGNhZmU%253D&psig=AOvVaw3z2NICzELIKt4XnhWoZ78J&ust=1753529633987000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIilm471144DFQAAAAAdAAAAABAE",
+    "image": "",
     "content": "We’ve explored and reviewed dozens of cafes to bring you the top 10 in your city. From cozy nooks with indie vibes to popular bustling hotspots, each one offers something unique—whether it’s the espresso, ambiance, or specialty treats. View our list to discover hidden gems and local favorites. Bonus: reader-submitted favorites included!"
   },
   {
@@ -80,7 +80,7 @@
     "id": "coffee-history",
     "title": "A Brief History of Coffee",
     "description": "Explore coffee’s fascinating journey from ancient Ethiopia to modern cafes.",
-    "image": "/history.jpg",
+    "image": "/benifit.jpg",
     "content": "Coffee has a rich past, beginning with Kaldi’s legendary goat discovery in Ethiopia. From Sufi rituals in Yemen to Parisian salons and global franchises, coffee has fueled revolutions, trade, and conversation. Learn how this humble bean became the world’s favorite beverage."
   },
   {
