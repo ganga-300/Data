@@ -3,105 +3,105 @@
     "id": "perfect-cup",
     "title": "How to Brew the Perfect Cup",
     "description": "Discover expert tips and tricks for brewing the best coffee at home.",
-    "image": "/brewing.jpg",
-    "content": "Brewing the perfect cup of coffee is both an art and a science. Begin with fresh, high-quality beans and grind them just before brewing. Use filtered water at the right temperature (90–96°C) and experiment with ratios (usually 1:16 coffee to water). Try different methods like pour-over, French press, AeroPress, or drip machines to find your ideal flavor. Keep your equipment clean and always enjoy the process—it’s part of the ritual."
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+    "content": "Brewing the perfect cup of coffee is both an art and a science..."
   },
   {
     "id": "top-10-cafes",
     "title": "Top 10 Cafes in Your City",
     "description": "Explore our curated list of the must-visit cafes near you for the best coffee experience.",
-    "image": "/vintage.jpg",
-    "content": "We’ve explored and reviewed dozens of cafes to bring you the top 10 in your city. From cozy nooks with indie vibes to popular bustling hotspots, each one offers something unique—whether it’s the espresso, ambiance, or specialty treats. View our list to discover hidden gems and local favorites. Bonus: reader-submitted favorites included!"
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
+    "content": "We’ve explored and reviewed dozens of cafes to bring you the top 10 in your city..."
   },
   {
     "id": "coffee-pairings",
     "title": "Coffee and Food Pairings",
     "description": "Learn how to elevate your coffee with delicious pairings.",
-    "image": "/330c305bcb959a4517041e43edae0c31.jpg",
-    "content": "Pairing coffee with the right food can enhance both flavors. Fruity Ethiopian blends complement citrus desserts, while rich Sumatran coffee goes well with spiced pastries. Try pairing espresso with dark chocolate, cappuccinos with croissants, and lattes with cookies or banana bread. Check our full guide for seasonal pairing suggestions."
+    "image": "https://images.unsplash.com/photo-1605476452394-3b60fa3b96d4",
+    "content": "Pairing coffee with the right food can enhance both flavors..."
   },
   {
     "id": "cold-brew-guide",
     "title": "Ultimate Guide to Cold Brew",
     "description": "Everything you need to know to make smooth, refreshing cold brew at home.",
-    "image": "/a9345bb5570ed0d9da242130d2f04691.jpg",
-    "content": "Cold brew is easy to make and perfect for hot days. Use a coarse grind and mix with cold, filtered water at a 1:8 ratio. Let it steep in the fridge for 12–18 hours, then strain using a fine mesh or cheesecloth. Serve over ice, and optionally dilute with milk or water. Add syrups or citrus zest for a twist!"
+    "image": "https://images.unsplash.com/photo-1582451085305-dbe9f19b0f69",
+    "content": "Cold brew is easy to make and perfect for hot days..."
   },
   {
     "id": "cafe-decor-trends",
     "title": "2024 Cafe Decor Trends",
     "description": "Discover the hottest interior design trends in cafes this year.",
-    "image": "/decor.jpg",
-    "content": "From minimalist Scandinavian vibes to lush, plant-filled corners, 2024 is all about comfort, sustainability, and Instagram-worthy aesthetics. Warm lighting, vintage furniture, terrazzo countertops, and earthy tones dominate the design scene. Look out for more DIY walls, curated art displays, and sensory-friendly seating zones."
+    "image": "https://images.unsplash.com/photo-1610878180933-1702aaeb3b01",
+    "content": "From minimalist Scandinavian vibes to lush, plant-filled corners..."
   },
   {
     "id": "espresso-basics",
     "title": "Espresso Basics: What You Need to Know",
     "description": "A beginner’s guide to making and understanding espresso.",
-    "image": "/coldd brew.jpg",
-    "content": "Espresso is the heart of many coffee drinks. Key components include grind size (fine), proper tamping (even pressure), and precise extraction (25–30 seconds). Use fresh beans and preheat your machine. A good shot should have a thick crema and balanced taste—not too bitter, not too sour."
+    "image": "https://images.unsplash.com/photo-1556997687-c167bd84308e",
+    "content": "Espresso is the heart of many coffee drinks..."
   },
   {
     "id": "outdoor-seating",
     "title": "Best Cafes with Outdoor Seating",
     "description": "Enjoy your coffee in the open air at these top-rated spots.",
-    "image": "/outdoor-seating.jpg",
-    "content": "From garden patios to rooftop views, these cafes offer the best outdoor seating experiences. Whether you want sunlit mornings or breezy evenings, our picks include Wi-Fi-friendly spots, pet-friendly zones, and nature-filled environments perfect for relaxing with a latte."
+    "image": "https://images.unsplash.com/photo-1561037404-61cd46aa615b",
+    "content": "From garden patios to rooftop views, these cafes offer the best outdoor seating experiences..."
   },
   {
     "id": "latte-art",
     "title": "Latte Art for Beginners",
     "description": "Step-by-step guide to creating beautiful latte art at home.",
-    "image": "/latte-art.jpg",
-    "content": "Start with well-steamed, microfoamed milk and freshly pulled espresso. Pour steadily and practice classic shapes like hearts, rosettas, and tulips. Use a wide cup for better control. Don’t worry if it’s not perfect—mastery comes with practice! Bonus: tips on fixing common milk-steaming mistakes."
+    "image": "https://images.unsplash.com/photo-1553979459-d2229ba7433d",
+    "content": "Start with well-steamed, microfoamed milk and freshly pulled espresso..."
   },
   {
     "id": "working-cafes",
     "title": "Top Cafes for Remote Work",
     "description": "Find the best cafes for productivity, comfort, and great coffee.",
-    "image": "/working-zones.jpg",
-    "content": "Remote work is better with good coffee. Our top picks have fast Wi-Fi, plenty of plugs, quiet atmospheres, and great lattes. Ideal for students, freelancers, or anyone needing a fresh workspace. We’ve also included cafes with community events and coworking-style vibes."
+    "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095",
+    "content": "Remote work is better with good coffee. Our top picks have fast Wi-Fi..."
   },
   {
     "id": "homemade-syrups",
     "title": "Homemade Coffee Syrups",
     "description": "Add custom flavors to your drinks with these easy syrup recipes.",
-    "image": "/homemade.jpg",
-    "content": "Make your own vanilla, caramel, and hazelnut syrups using just sugar, water, and flavoring. Store in the fridge for up to two weeks. Add them to lattes, iced coffees, or cold brews for a café-style experience at home. Bonus recipes: pumpkin spice, lavender, and cinnamon brown sugar."
+    "image": "https://images.unsplash.com/photo-1587736402559-59d6a1a0e08a",
+    "content": "Make your own vanilla, caramel, and hazelnut syrups using just sugar, water, and flavoring..."
   },
   {
     "id": "coffee-subscription",
     "title": "Is a Coffee Subscription Worth It?",
     "description": "Weigh the pros and cons of popular coffee bean subscription services.",
-    "image": "/d21cd4dac4c920557d0a66dc54217c32.jpg",
-    "content": "Coffee subscriptions deliver freshly roasted beans right to your door. They offer convenience, variety, and often introduce you to new roasters. But are they worth the price? We break down options based on pricing, flavor profiles, shipping schedules, and customization."
+    "image": "https://images.unsplash.com/photo-1589308078054-83214f55b267",
+    "content": "Coffee subscriptions deliver freshly roasted beans right to your door..."
   },
   {
     "id": "coffee-history",
     "title": "A Brief History of Coffee",
     "description": "Explore coffee’s fascinating journey from ancient Ethiopia to modern cafes.",
-    "image": "/benifit.jpg",
-    "content": "Coffee has a rich past, beginning with Kaldi’s legendary goat discovery in Ethiopia. From Sufi rituals in Yemen to Parisian salons and global franchises, coffee has fueled revolutions, trade, and conversation. Learn how this humble bean became the world’s favorite beverage."
+    "image": "https://images.unsplash.com/photo-1611691544689-7bcb6fbdc6c0",
+    "content": "Coffee has a rich past, beginning with Kaldi’s legendary goat discovery in Ethiopia..."
   },
   {
     "id": "eco-friendly-cafes",
     "title": "Eco-Friendly Cafes Doing It Right",
     "description": "Discover cafes making a difference with sustainable practices.",
-    "image": "/capstonemain.jpg",
-    "content": "These cafes use compostable cups, local ingredients, and zero-waste policies to reduce their environmental footprint. Some even roast using solar energy or offer discounts for reusable mugs. Support businesses that align with your values while sipping great coffee."
+    "image": "https://images.unsplash.com/photo-1602953655263-094646b6cbb7",
+    "content": "These cafes use compostable cups, local ingredients, and zero-waste policies..."
   },
   {
     "id": "coffee-myths",
     "title": "Busting Common Coffee Myths",
     "description": "Is coffee dehydrating? Does it stunt growth? We bust these myths and more.",
-    "image": "/Background-blogs.jpg",
-    "content": "There are many misconceptions about coffee: it's bad for your heart, it dehydrates you, or it causes insomnia. Science says otherwise. Learn the truth behind these myths and drink your brew with confidence—moderation and timing are key!"
+    "image": "https://images.unsplash.com/photo-1574484284002-952d92456975",
+    "content": "There are many misconceptions about coffee: it's bad for your heart, it dehydrates you..."
   },
   {
     "id": "coffee-tasting",
     "title": "Coffee Tasting 101",
     "description": "Learn how to taste coffee like a pro.",
-    "image": "/capp.jpg",
-    "content": "Just like wine, coffee has complex flavors. Discover how to identify tasting notes like floral, nutty, chocolatey, or citrus. We explain aroma, body, acidity, and aftertaste—and how to improve your palate through cupping practices at home."
+    "image": "https://images.unsplash.com/photo-1515442261605-cd4ad2b87c30",
+    "content": "Just like wine, coffee has complex flavors. Discover how to identify tasting notes..."
   }
 ]
