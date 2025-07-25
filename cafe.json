@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Arabica Coffee House",
+    "address": "123 Main St, YourCity",
+    "description": "A cozy spot with specialty brews and pastries.",
+    "image": "/arabica.jpg",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Arabica+Coffee+House+YourCity"
+  },
+  {
+    "name": "Vintage Beans",
+    "address": "456 Oak Ave, YourCity",
+    "description": "Retro vibes, great espresso, and comfy seating.",
+    "image": "/vintage.jpg",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Vintage+Beans+YourCity"
+  },
+  {
+    "name": "Nature Brew",
+    "address": "789 Park Blvd, YourCity",
+    "description": "Enjoy coffee surrounded by greenery and nature.",
+    "image": "/nature.jpg",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Nature+Brew+YourCity"
+  },
+  {
+    "name": "Rise & Grind",
+    "address": "101 River Rd, YourCity",
+    "description": "Modern decor, river views, and a wide selection of brews.",
+    "image": "/rise.jpg",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Rise+%26+Grind+YourCity"
+  },
+  {
+    "name": "The Working Zone",
+    "address": "202 Tech Park, YourCity",
+    "description": "Perfect for remote work with fast Wi-Fi and quiet corners.",
+    "image": "/working-zones.jpg",
+    "maps": "https://www.google.com/maps/search/?api=1&query=The+Working+Zone+YourCity"
+  },
+  {
+    "name": "Homemade Brews",
+    "address": "303 Home St, YourCity",
+    "description": "Homemade pastries and a family-friendly atmosphere.",
+    "image": "/homemade.jpg",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Homemade+Brews+YourCity"
+  },
+  {
+    "name": "Outdoor Sips",
+    "address": "404 Garden Ave, YourCity",
+    "description": "Enjoy your coffee in a lush outdoor garden.",
+    "image": "/outdoor-seating.jpg",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Outdoor+Sips+YourCity"
+  },
+  {
+    "name": "Capstone Cafe",
+    "address": "505 College Blvd, YourCity",
+    "description": "Student favorite with study spaces and affordable drinks.",
+    "image": "/capstonemain.png",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Capstone+Cafe+YourCity"
+  },
+  {
+    "name": "Espresso Express",
+    "address": "606 Central Station, YourCity",
+    "description": "Quick service and strong espresso for commuters.",
+    "image": "/espresssso.jpg",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Espresso+Express+YourCity"
+  },
+  {
+    "name": "Vintage Vibes",
+    "address": "707 Retro Ln, YourCity",
+    "description": "Step back in time with vintage decor and classic brews.",
+    "image": "/vintage.jpg",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Vintage+Vibes+YourCity"
+  }
+]
